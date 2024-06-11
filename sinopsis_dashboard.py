@@ -46,7 +46,7 @@ Cómo utilizar la tabla de datos en el sitio web:
 st.markdown(inst_text)
 
 # Set Data Url
-dataset_url = "/users/diegoarguello/superpuntos/Product_Data_Pipeline/Pricing_Data_Final.csv"
+dataset_url = "Pricing_Data_Final.csv"
 
 # Read CSV
 @st.cache_data
